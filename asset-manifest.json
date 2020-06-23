@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TodoAppMicro/static/css/main.bf556ce3.chunk.css",
+    "main.js": "/TodoAppMicro/static/js/main.03e2f182.chunk.js",
+    "main.js.map": "/TodoAppMicro/static/js/main.03e2f182.chunk.js.map",
+    "runtime-main.js": "/TodoAppMicro/static/js/runtime-main.b84b2518.js",
+    "runtime-main.js.map": "/TodoAppMicro/static/js/runtime-main.b84b2518.js.map",
+    "static/js/2.2b602524.chunk.js": "/TodoAppMicro/static/js/2.2b602524.chunk.js",
+    "static/js/2.2b602524.chunk.js.map": "/TodoAppMicro/static/js/2.2b602524.chunk.js.map",
+    "index.html": "/TodoAppMicro/index.html",
+    "precache-manifest.643c42ac6b79362aa7a6b37ee1b52eb7.js": "/TodoAppMicro/precache-manifest.643c42ac6b79362aa7a6b37ee1b52eb7.js",
+    "service-worker.js": "/TodoAppMicro/service-worker.js",
+    "static/css/main.bf556ce3.chunk.css.map": "/TodoAppMicro/static/css/main.bf556ce3.chunk.css.map",
+    "static/js/2.2b602524.chunk.js.LICENSE.txt": "/TodoAppMicro/static/js/2.2b602524.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b84b2518.js",
+    "static/js/2.2b602524.chunk.js",
+    "static/css/main.bf556ce3.chunk.css",
+    "static/js/main.03e2f182.chunk.js"
+  ]
+}
